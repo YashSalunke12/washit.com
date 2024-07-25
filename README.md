@@ -1,2 +1,2 @@
 # washit.com
-Washit - your personal laundry assistant online
+Washit : your personal laundry assistant online
